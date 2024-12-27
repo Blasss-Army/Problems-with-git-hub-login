@@ -1,0 +1,12 @@
+When trying to push the changes into Git hub, Visual Studio Code shows the following error.
+
+Make sure you configure your 'user.email' and 'user.email' in git.
+
+THE SOLUTION:
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"  // albertob******@gmail.com
+  git config --global user.name "Your Name"         // Alb**** B*****
